@@ -12,3 +12,6 @@
 ## Server Meshing
 - [Star Citizen | How Will Server Meshing Change The Game?](https://youtu.be/nuMuYeIlTS8)
 - [Persistent Entity Streaming | How It Could Change Star Citizen](https://youtu.be/PrmAqPuyXrQ)
+
+# Review
+[I tried 'Star Citizen' to see if it's worth the $500m they've raised...](https://youtu.be/lbB6iG_yYm0)
